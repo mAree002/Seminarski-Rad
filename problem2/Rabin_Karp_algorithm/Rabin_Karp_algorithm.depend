@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732978172 source:c:\users\user\desktop\seminarski-rad\problem2\rabin_karp_algorithm\main.cpp
+	<iostream>
+	<cstring>
+
