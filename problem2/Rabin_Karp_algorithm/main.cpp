@@ -47,7 +47,7 @@ void rabin_karp(char pat[], char txt[], int q,int d)
                 }
             }
             if (j == M)
-                cout << "Pattern found at index " << i
+                cout << "Šablon pronađen sa početnim indeksom:  " << i
                      << endl;
         }
 
