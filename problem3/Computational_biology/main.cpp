@@ -79,11 +79,11 @@ int main()
 {
     string s1 = "BABABBAAB";
     int m1 = 3;
-    cout << "Test Case 1: " << findMaxCyclicOccurrenses(s1, m1) << endl;
+    cout << "Test 1: " << findMaxCyclicOccurrenses(s1, m1) << endl;
 
     string s2 = "ABAABAABAABAAAAA";
     int m2 = 5;
-    cout << "Test Case 2: " << findMaxCyclicOccurrenses(s2, m2) << endl;
+    cout << "Test 2: " << findMaxCyclicOccurrenses(s2, m2) << endl;
 
     return 0;
 }
