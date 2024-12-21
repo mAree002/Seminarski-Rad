@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1734806856 source:c:\users\user\desktop\seminarski-rad\problem3\computational_biology\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<unordered_map>
+	<algorithm>
+

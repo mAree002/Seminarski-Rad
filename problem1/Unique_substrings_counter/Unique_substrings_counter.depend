@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1732978403 source:c:\users\user\desktop\seminarski-rad\problem1\unique_substrings_counter\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<unordered_set>
+
