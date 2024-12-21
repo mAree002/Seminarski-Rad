@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1734806191 source:c:\users\user\desktop\seminarski-rad\problem4\longest_substring_palindrom\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+	<string>
+	<algorithm>
+
